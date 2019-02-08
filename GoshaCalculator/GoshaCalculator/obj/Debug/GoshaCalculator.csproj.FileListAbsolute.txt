@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\GoshaCalculator\GoshaCalculator\bin\Debug\GoshaCalculator.exe.config
+C:\Users\User\source\repos\GoshaCalculator\GoshaCalculator\bin\Debug\GoshaCalculator.exe
+C:\Users\User\source\repos\GoshaCalculator\GoshaCalculator\bin\Debug\GoshaCalculator.pdb
+C:\Users\User\source\repos\GoshaCalculator\GoshaCalculator\obj\Debug\GoshaCalculator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GoshaCalculator\GoshaCalculator\obj\Debug\GoshaCalculator.GoshaCalcul.resources
+C:\Users\User\source\repos\GoshaCalculator\GoshaCalculator\obj\Debug\GoshaCalculator.Properties.Resources.resources
+C:\Users\User\source\repos\GoshaCalculator\GoshaCalculator\obj\Debug\GoshaCalculator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GoshaCalculator\GoshaCalculator\obj\Debug\GoshaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GoshaCalculator\GoshaCalculator\obj\Debug\GoshaCalculator.exe
+C:\Users\User\source\repos\GoshaCalculator\GoshaCalculator\obj\Debug\GoshaCalculator.pdb

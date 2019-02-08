@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\GameRandomNumber\GameRandomNumber\bin\Debug\GameRandomNumber.exe.config
+C:\Users\User\source\repos\GameRandomNumber\GameRandomNumber\bin\Debug\GameRandomNumber.exe
+C:\Users\User\source\repos\GameRandomNumber\GameRandomNumber\bin\Debug\GameRandomNumber.pdb
+C:\Users\User\source\repos\GameRandomNumber\GameRandomNumber\obj\Debug\GameRandomNumber.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GameRandomNumber\GameRandomNumber\obj\Debug\GameRandomNumber.RandomNumbers.resources
+C:\Users\User\source\repos\GameRandomNumber\GameRandomNumber\obj\Debug\GameRandomNumber.Properties.Resources.resources
+C:\Users\User\source\repos\GameRandomNumber\GameRandomNumber\obj\Debug\GameRandomNumber.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GameRandomNumber\GameRandomNumber\obj\Debug\GameRandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GameRandomNumber\GameRandomNumber\obj\Debug\GameRandomNumber.exe
+C:\Users\User\source\repos\GameRandomNumber\GameRandomNumber\obj\Debug\GameRandomNumber.pdb

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\autoserching\autoserching\bin\Debug\autoserching.exe.config
+C:\Users\User\source\repos\autoserching\autoserching\bin\Debug\autoserching.exe
+C:\Users\User\source\repos\autoserching\autoserching\bin\Debug\autoserching.pdb
+C:\Users\User\source\repos\autoserching\autoserching\bin\Debug\en\autoserching.resources.dll
+C:\Users\User\source\repos\autoserching\autoserching\obj\Debug\autoserching.csprojAssemblyReference.cache
+C:\Users\User\source\repos\autoserching\autoserching\obj\Debug\autoserching.AutoForm.resources
+C:\Users\User\source\repos\autoserching\autoserching\obj\Debug\autoserching.Properties.Resources.resources
+C:\Users\User\source\repos\autoserching\autoserching\obj\Debug\autoserching.AutoForm.en.resources
+C:\Users\User\source\repos\autoserching\autoserching\obj\Debug\autoserching.csproj.GenerateResource.cache
+C:\Users\User\source\repos\autoserching\autoserching\obj\Debug\autoserching.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\autoserching\autoserching\obj\Debug\en\autoserching.resources.dll
+C:\Users\User\source\repos\autoserching\autoserching\obj\Debug\autoserching.exe
+C:\Users\User\source\repos\autoserching\autoserching\obj\Debug\autoserching.pdb
